@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://github.com/nazarialireza">
-    <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazarialireza/nazarialireza/main/myname.gif">
-       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazarialireza/nazarialireza/main/myname-l.gif">
-      <img src="https://raw.githubusercontent.com/nazarialireza/nazarialireza/main/myname.gif" alt="Alireza Nazari" style="visibility:visible;max-width:30%;"/>
-    </picture>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&center=true&repeat=false&width=500&height=70&lines=Alireza+Nazari" alt="Typing SVG" /></a>
   </a>
   <br>
 </p> 
