@@ -28,15 +28,15 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/nazarilireza/responsive-media-queries">
-      <img width="334" src="https://github-readme-stats.vercel.app/api/pin/?username=nazarialireza&repo=responsive-media-queries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      <img width="" src="https://github-readme-stats.vercel.app/api/pin/?username=nazarialireza&repo=responsive-media-queries&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
         alt="responsive-media-queries">
     </a>
     <a href="https://github.com/nazarilireza/ozone-admin-panel">
-      <img width="334" src="https://github-readme-stats.vercel.app/api/pin/?username=nazarialireza&repo=ozone-admin-panel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      <img width="" src="https://github-readme-stats.vercel.app/api/pin/?username=nazarialireza&repo=ozone-admin-panel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
         alt="Ozone Admin Panel">
     </a>
     <a href="https://github.com/nazarilireza/python-101">
-      <img width="334" src="https://github-readme-stats.vercel.app/api/pin/?username=nazarialireza&repo=python-101&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
+      <img width="" src="https://github-readme-stats.vercel.app/api/pin/?username=nazarialireza&repo=python-101&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"
         alt="python-101">
     </a>
   </p>
